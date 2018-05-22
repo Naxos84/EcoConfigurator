@@ -20,7 +20,7 @@
 *.rar
 
 # IDE specific files
-bin/*
+/bin/
 .settings/*
 .classpath
 .project

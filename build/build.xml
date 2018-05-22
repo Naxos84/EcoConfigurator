@@ -22,7 +22,7 @@
 	
 		<mkdir dir="project" />
 		<copy todir="project">
-			<fileset dir="C:\Projekte\Sonstige\Private\EcoConfigurator">
+			<fileset dir="${basedir}\..\..\EcoConfigurator">
 				<include name="src/**" />
 			</fileset>
 		</copy>
