@@ -3,3 +3,11 @@
 	-fx-background-color: red;
 	-fx-text-fill: white;
 }
+
+.tab:selected {
+	-fx-background-color: rgb(0, 150, 201);
+}
+
+.tab:selected .tab-label {
+	-fx-font-weight: bold;
+}
